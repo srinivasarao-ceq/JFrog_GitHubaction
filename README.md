@@ -1,9 +1,5 @@
 # maven-project
 
-This is a tokenized webhook integration demo
+Simple Maven Project and Stored artifact in JFrog 
 
-Now This repo is going to trigger Jenkins Job
 
-Simple Maven Project
-
-This is a Master branch copy
