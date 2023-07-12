@@ -1,5 +1,5 @@
 # maven-project
 
-Simple Maven Project and Stored artifact in JFrog 
+Simple Maven Project and Stored artifact in JFrog.
 
 
